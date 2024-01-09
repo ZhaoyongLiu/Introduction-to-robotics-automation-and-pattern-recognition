@@ -1,4 +1,4 @@
-# Introduction to robotics, automation, and pattern recognition
+# Introduction to robotics automation and pattern recognition
 
 ## 机器人
 

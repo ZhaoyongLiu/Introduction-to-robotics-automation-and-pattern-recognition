@@ -7,7 +7,7 @@
 
 ### 复杂动态系统
 1. 切换系统 <br>
-切换系统（Switched Systems）—2.1 稳定性基础 Link-> https://zhuanlan.zhihu.com/p/539125483
+切换系统（Switched Systems）—2.1 稳定性基础 Link-> https://zhuanlan.zhihu.com/p/539125483  
 切换系统（Switched Systems）—3.1 受限切换系统的稳定性（I）Link-> https://zhuanlan.zhihu.com/p/539299349  
 
 3. 时滞系统 <br>

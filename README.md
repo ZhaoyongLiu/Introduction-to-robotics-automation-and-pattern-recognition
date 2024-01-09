@@ -1,5 +1,7 @@
 # Introduction-to-robotics-automation-and-pattern-recognition
 
+## 机器人
+
 ## 自动化
 ### 初级控制理论
 
@@ -21,6 +23,5 @@
 
 #### 2、脉冲控制
 
-## 机器人
 
 ## 模式识别与人工智能

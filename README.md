@@ -7,7 +7,8 @@
 
 ### 复杂动态系统
 1. 切换系统 <br>
-切换系统（Switched Systems）—3.1 受限切换系统的稳定性（I）Link-> https://zhuanlan.zhihu.com/p/539299349
+切换系统（Switched Systems）—2.1 稳定性基础 Link-> https://zhuanlan.zhihu.com/p/539125483
+切换系统（Switched Systems）—3.1 受限切换系统的稳定性（I）Link-> https://zhuanlan.zhihu.com/p/539299349  
 
 3. 时滞系统 <br>
 时滞系统（Time-delay Systems）—3.2 时滞无关稳定性条件 Link-> https://zhuanlan.zhihu.com/p/536058938  
@@ -20,9 +21,9 @@
 
 ### 高级控制理论
 
-#### 1、随机控制
+1. 随机控制 <br>
 
-#### 2、脉冲控制
+2. 脉冲控制 <br>
 
 
 ## 模式识别与人工智能

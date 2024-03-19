@@ -2,7 +2,7 @@
 ## Robotics
 
 ## Automation
-### Element control theory
+### Elementary control theory
 
 ### Advanced control theory
 [1] 随机控制 <br>

@@ -1,10 +1,13 @@
 
-## 机器人
+## Robotics
 
-## 自动化
-### 初级控制理论
+## Automation
+### Element control theory
 
-### 复杂动态系统
+### Advanced control theory
+[1] 随机控制 <br>
+
+### Complex dynamical systems
 [1] 切换系统 <br>
 2.1 稳定性基础 Link-> https://zhuanlan.zhihu.com/p/539125483  
 3.1 受限切换系统的稳定性（I）Link-> https://zhuanlan.zhihu.com/p/539299349  
@@ -20,9 +23,4 @@
 [5] 脉冲系统 <br>
 
 
-### 高级控制理论
-
-[1] 随机控制 <br>
-
-
-## 模式识别与人工智能
+## Pattern recognition and artificial intelligence

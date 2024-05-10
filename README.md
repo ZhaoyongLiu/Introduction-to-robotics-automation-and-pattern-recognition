@@ -1,14 +1,19 @@
 
 ## Robotics
+Waiting for update (^_^)
+
 
 ## Automation
 ### Elementary control theory
+[1] LMIs in Control Systems <br>
+6. Feedback stabilization, Link-> https://zhuanlan.zhihu.com/p/696745282
 
 ### Advanced control theory
 [1] Stochastic control <br>
 
 ### Complex dynamical systems
 [1] Switched systems <br>
+1.1 Introduction, Link-> https://zhuanlan.zhihu.com/p/539118766
 2.1 Foundations of stability, Link-> https://zhuanlan.zhihu.com/p/539125483  
 3.1 Stability of constrained switched systems (I), Link-> https://zhuanlan.zhihu.com/p/539299349  
 
@@ -24,3 +29,5 @@
 
 
 ## Pattern recognition and artificial intelligence
+Waiting for update (^_^)
+

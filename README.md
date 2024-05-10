@@ -1,5 +1,7 @@
 
 ## Robotics
+Waiting for update. ^_^
+
 
 ## Automation
 ### Elementary control theory
@@ -26,3 +28,5 @@
 
 
 ## Pattern recognition and artificial intelligence
+Waiting for update. ^_^
+

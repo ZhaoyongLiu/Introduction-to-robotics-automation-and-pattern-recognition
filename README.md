@@ -6,7 +6,7 @@ Waiting for update (^_^)
 ## Automation
 ### Elementary control theory
 [1] LMIs in Control Systems <br>
-6. Feedback stabilization, Link-> https://zhuanlan.zhihu.com/p/696745282?
+6. Feedback stabilization, Link-> https://zhuanlan.zhihu.com/p/696745282
 
 ### Advanced control theory
 [1] Stochastic control <br>

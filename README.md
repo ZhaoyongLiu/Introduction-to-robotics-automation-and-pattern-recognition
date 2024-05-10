@@ -1,6 +1,6 @@
 
 ## Robotics
-Waiting for update. ^_^
+Waiting for update (^_^)
 
 
 ## Automation
@@ -28,5 +28,5 @@ Waiting for update. ^_^
 
 
 ## Pattern recognition and artificial intelligence
-Waiting for update. ^_^
+Waiting for update (^_^)
 

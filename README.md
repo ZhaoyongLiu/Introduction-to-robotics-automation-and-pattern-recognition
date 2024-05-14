@@ -7,6 +7,7 @@ Waiting for update (^_^)
 ### Elementary control theory
 [1] LMIs in Control Systems <br>
 6. Feedback stabilization, Link-> https://zhuanlan.zhihu.com/p/696745282
+8. State estimation and filtering, Link-> https://zhuanlan.zhihu.com/p/659844054
 
 ### Advanced control theory
 [1] Stochastic control <br>

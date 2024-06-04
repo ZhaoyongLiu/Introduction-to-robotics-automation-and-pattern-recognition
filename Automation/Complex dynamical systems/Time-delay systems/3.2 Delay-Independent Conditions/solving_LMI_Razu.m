@@ -30,29 +30,39 @@ lmis = getlmis;
 P = dec2mat(lmis,xfeas,p); % exporting feasible value of matrix variable from "xfeas" using "dec2mat"
 disp('P = ');disp(P);
 
-%% Test whether the obtained solution satisfies the constraint of LMIs  ******
-evlmi=evallmi(lmis,xfeas); % bring the solved "xfeas" into LMIs
-Lhs=cell(1,LMIs);Rhs=cell(1,LMIs);
-Lhs_Rhs=cell(1,LMIs);
-%-----------------------------verify the negative determinacy of each LMI
-sum=0;label=zeros(1,LMIs);
-store=cell(1,LMIs); % record the difference between the left and right eigenvalues of each LMI
+%% Test whether the obtained solution satisfies the constraints of LMIs
+evlmi = evallmi(lmis, xfeas);  % bring the solved "xfeas" into LMIs
+Lhs = cell(1, LMIs);Rhs=cell(1, LMIs);
+Lhs_Rhs = cell(1, LMIs);
+%-------------------------------------------------------------------------%
+%         verify the negative determinacy of each LMI
+%-------------------------------------------------------------------------%
+sum = 0;label = zeros(1, LMIs);
+store = cell(1, LMIs); % record the difference between the left and right eigenvalues of each LMI
 for i=1:LMIs
-    [lhs,rhs]=showlmi(evlmi,i);
-    Lhs{1,i}=lhs;Rhs{1,i}=rhs;
-    Lhs_Rhs{1,i}=[lhs,rhs];
-    store{1,i}=eig(lhs-rhs);
+    [lhs,rhs] = showlmi(evlmi,i);
+    Lhs{1,i} = lhs; Rhs{1,i} = rhs;
+    Lhs_Rhs{1,i} = [lhs,rhs];
+    store{1,i} = eig(lhs-rhs);
     if(eig(lhs-rhs)<0)
-        sum=sum+1;
-        label(i)=1;
+        sum = sum+1;
+        label(i) = 1; 
     end
 end
-if(sum==LMIs)
+if(sum == LMIs)
     disp('****** All LMIs are negative definite! ******');
 else
     disp('****** Error! ******');
-    notsat_num=find(label==0);
-    for j=1:length(notsat_num)
-        fprintf('The %dth LMI is infeasible!\n',notsat_num(j));
+    notsat_num = find(label == 0);
+    for j = 1:length(notsat_num)
+        if mod(notsat_num(j),10) == 1 && notsat_num(j) ~= 11
+             fprintf('The %dst LMI is infeasible!\n',notsat_num(j));
+        elseif mod(notsat_num(j),10) == 2 && notsat_num(j) ~= 12
+             fprintf('The %dnd LMI is infeasible!\n',notsat_num(j));
+        elseif mod(notsat_num(j),10) == 3 && notsat_num(j) ~= 13
+             fprintf('The %drd LMI is infeasible!\n',notsat_num(j));
+        else
+             fprintf('The %dth LMI is infeasible!\n',notsat_num(j));
+        end
     end
 end

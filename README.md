@@ -4,6 +4,10 @@ Waiting for update (^_^)
 
 
 ## Automation
+### Electronic and electrical
+[1] Power electronics technology
+4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580
+
 ### Elementary control theory
 [1] LMIs in Control Systems <br>
 6. Feedback stabilization, Link-> https://zhuanlan.zhihu.com/p/696745282  

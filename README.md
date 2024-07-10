@@ -5,7 +5,7 @@ Waiting for update (^_^)
 
 ## Automation
 ### Electronic and electrical
-[1] Power electronics technology
+[1] Power electronics technology  
 4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580
 
 ### Elementary control theory

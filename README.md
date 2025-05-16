@@ -1,9 +1,9 @@
 
-## 1) Robotics
+## (1) Robotics
 Waiting for update (^_^)
 
 
-## 2) Automation
+## (2) Automation
 ### Electronic and electrical
 [1] Power electronics technology  
 4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580
@@ -34,6 +34,6 @@ Waiting for update (^_^)
 [5] Impulsive systems <br>
 
 
-## 3) Pattern recognition and artificial intelligence
+## (3) Pattern recognition and artificial intelligence
 Waiting for update (^_^)
 

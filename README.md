@@ -21,7 +21,7 @@
 1.1 Introduction, Link-> https://zhuanlan.zhihu.com/p/539118766  
 2.1 Foundations of stability, Link-> https://zhuanlan.zhihu.com/p/539125483  
 3.1 Stability of constrained switched systems (I), Link-> https://zhuanlan.zhihu.com/p/539299349  
-4.2 Observer design for DSLS
+4.2 Observer design for DSLS, Link-> https://zhuanlan.zhihu.com/p/29506030553  
 
 [2] Time-delay systems <br>
 3.2 Delay-independent stability conditions, Link-> https://zhuanlan.zhihu.com/p/536058938  

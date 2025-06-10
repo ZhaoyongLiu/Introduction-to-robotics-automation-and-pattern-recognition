@@ -4,7 +4,7 @@
 
 
 ## Automation
-### Electronic and electrical
+### Electronic and electrical technology
 [1] Power electronics technology  
 4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580
 

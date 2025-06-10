@@ -1,9 +1,9 @@
 
-## 1' Robotics
-Waiting for update (^_^)
+## Robotics
 
 
-## 2' Automation
+
+## Automation
 ### Electronic and electrical
 [1] Power electronics technology  
 4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580
@@ -21,6 +21,7 @@ Waiting for update (^_^)
 1.1 Introduction, Link-> https://zhuanlan.zhihu.com/p/539118766  
 2.1 Foundations of stability, Link-> https://zhuanlan.zhihu.com/p/539125483  
 3.1 Stability of constrained switched systems (I), Link-> https://zhuanlan.zhihu.com/p/539299349  
+4.2 Observer design for DSLS
 
 [2] Time-delay systems <br>
 3.2 Delay-independent stability conditions, Link-> https://zhuanlan.zhihu.com/p/536058938  
@@ -34,6 +35,6 @@ Waiting for update (^_^)
 [5] Impulsive systems <br>
 
 
-## 3' Pattern recognition and artificial intelligence
-Waiting for update (^_^)
+## Pattern recognition and artificial intelligence
+
 

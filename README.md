@@ -4,6 +4,20 @@
 
 
 ## Automation
+### Maths
+[1] Numerical analysis
+6. Function interpolation, Link-> https://zhuanlan.zhihu.com/p/13816136784
+
+### Physics
+
+### Mechanical engineering
+
+### Communication
+
+### Computer science
+
+
+
 ### Electronic and electrical technology
 [1] Power electronics technology  
 4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580

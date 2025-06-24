@@ -5,7 +5,7 @@
 
 ## Automation
 ### Maths
-[1] Numerical analysis
+[1] Numerical analysis  
 6. Function interpolation, Link-> https://zhuanlan.zhihu.com/p/13816136784
 
 ### Physics

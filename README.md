@@ -14,6 +14,16 @@
 ### Mechanical engineering
 
 ### Communication
+[1] Principles of communication
+
+[2] Signal and system
+
+[3] Information theory and coding
+
+[4] Digital signal processing
+
+[5] Wireless communication
+
 
 ### Computer science
 

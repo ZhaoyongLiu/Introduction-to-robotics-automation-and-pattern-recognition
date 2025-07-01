@@ -18,11 +18,15 @@
 ### Computer science
 
 ### Aerospace
+[1] Principles of Aircraft
 
 
 ### Electronic and electrical technology
 [1] Power electronics technology  
 4. Buck converter, Link-> https://zhuanlan.zhihu.com/p/691858580
+
+[2] Electric machine/Motor
+
 
 ### Elementary control theory
 [1] LMIs in Control Systems <br>
